@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Seating Chart",
+  "description": "An interactive seating chart generator for weddings and other large events. It supports drag-and-drop seat arrangement, Excel-based guest import, and multi-page PDF export.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
